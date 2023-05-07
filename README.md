@@ -4,4 +4,4 @@
 <br>
 
 ## Мои скиллы 🎓
-![конф](https://user-images.githubusercontent.com/132752674/236671217-30d7d2bd-9b52-4629-826e-9af9b9f6fc1f.png) ![джира](https://user-images.githubusercontent.com/132752674/236671247-09e757b8-4dab-4cdc-b759-00923009782d.png)
+![конф](https://user-images.githubusercontent.com/132752674/236671217-30d7d2bd-9b52-4629-826e-9af9b9f6fc1f.png) ![джира](https://user-images.githubusercontent.com/132752674/236671273-a188efa2-607c-4989-b114-e110d3a970b2.png)
