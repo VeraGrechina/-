@@ -36,7 +36,7 @@
     </ol>
      
 <p>Решение задач:<p>
- ссылка на документ: 
+ ссылка на документ: https://docs.google.com/document/d/1dA6AReAuWct0BtyDOOS-RR1RyO6P8kz9LIrBuwUzqRw/edit?usp=sharing
  
  <p>Вывод:<p>
   <ol>
