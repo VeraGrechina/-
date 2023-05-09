@@ -2,8 +2,8 @@
 ## Обо мне
 Привет 👋!Я Вера - начинающий тестировщик. В профиле мои работы, выполненные во время обучения в Skypro.
 ## Мои скиллы 🎓
-![конф](https://github.com/VeraGrechina/-/assets/132752674/cf56c4bf-18e1-4d3c-bdce-7cc9d556a57c)
- ![джира](https://github.com/VeraGrechina/-/assets/132752674/94e7a1be-4909-45ed-9d31-3f353a93fb95)     ![qase-logo-blog](https://user-images.githubusercontent.com/132752674/236671603-f8d8f578-4668-43bb-b036-187136d21355.png)   ![soap](https://user-images.githubusercontent.com/132752674/236671957-c8cde42a-a0ac-4ba7-87b8-0c4c3283dee8.png)  ![swagger](https://user-images.githubusercontent.com/132752674/236671962-031f0fc6-3c42-4064-ba20-bdd940ff2cd1.jpg) ![jmeter](https://user-images.githubusercontent.com/132752674/236671972-870ac087-63fe-445c-b5a6-aef2b86c37e8.png)  ![postman](https://user-images.githubusercontent.com/132752674/236671978-1170070b-f28d-4a00-b147-042b52a5b682.png) ![sql](https://user-images.githubusercontent.com/132752674/236671986-cb0c18a2-2859-49db-8ee6-0cc416b3b55d.png)
+![конф](https://github.com/VeraGrechina/-/assets/132752674/4140b356-7dc2-4378-8201-08cd63d4fad0)
+![джира](https://github.com/VeraGrechina/-/assets/132752674/feeaf672-6f64-479f-a4ad-9bcbc48d29e5)    ![qase-logo-blog](https://user-images.githubusercontent.com/132752674/236671603-f8d8f578-4668-43bb-b036-187136d21355.png)   ![soap](https://user-images.githubusercontent.com/132752674/236671957-c8cde42a-a0ac-4ba7-87b8-0c4c3283dee8.png)  ![swagger](https://user-images.githubusercontent.com/132752674/236671962-031f0fc6-3c42-4064-ba20-bdd940ff2cd1.jpg) ![jmeter](https://user-images.githubusercontent.com/132752674/236671972-870ac087-63fe-445c-b5a6-aef2b86c37e8.png)  ![postman](https://user-images.githubusercontent.com/132752674/236671978-1170070b-f28d-4a00-b147-042b52a5b682.png) ![sql](https://user-images.githubusercontent.com/132752674/236671986-cb0c18a2-2859-49db-8ee6-0cc416b3b55d.png)
 
 
 ## Проекты
