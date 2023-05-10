@@ -15,10 +15,11 @@
    </ol>
      
 <p>Решение задач:<p>
- ссылка на тест план: 
- ссылка на отчет о тестировании: 
- логин: vera0290@yandeх.ru 
- пароль: 89210740270Vera
+ Ссылка на проект в Confluence: 
+ https://grechinavera.atlassian.net/l/cp/4DYuC1Dw
+ логин: vera0290@yandex.ru
+ пароль:89210740270Vera 
+
  
  <p>Вывод:<p>
   <ol>
