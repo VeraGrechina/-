@@ -48,6 +48,12 @@
   ## Контактная информация:
   <p>📧 Email:vera0290@yandeх.ru
    
+   <details open=""><summary> Bug reports on new functionality: </summary><br>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/132752674/236671603-f8d8f578-4668-43bb-b036-187136d21355.png"><img src="https://user-images.githubusercontent.com/132752674/236671603-f8d8f578-4668-43bb-b036-187136d21355.png" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/132752674/236671957-c8cde42a-a0ac-4ba7-87b8-0c4c3283dee8.png"><img src="https://user-images.githubusercontent.com/132752674/236671957-c8cde42a-a0ac-4ba7-87b8-0c4c3283dee8.png" alt="image" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/132752674/236671972-870ac087-63fe-445c-b5a6-aef2b86c37e8.png"><img src="https://user-images.githubusercontent.com/132752674/236671972-870ac087-63fe-445c-b5a6-aef2b86c37e8.png" alt="image" style="max-width: 100%;"></a></p>
+</details>
+   
    
 
  
