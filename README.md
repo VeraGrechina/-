@@ -2,7 +2,14 @@
 ## Обо мне
 Привет 👋!Я Вера - начинающий тестировщик. В профиле мои работы, выполненные во время обучения в Skypro.
 ## Мои скиллы 🎓
-https://github.com/VeraGrechina/portfolio-QA/assets/132752674/ac932b78-458b-4a31-a85d-0c389b7135ba
+![джира](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/5e940617-34d0-4fb7-845f-b8c3e449b865)
+![конф](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/07ab4532-b97e-46ca-855e-5aef41b79d08)
+![qase-logo-blog](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/ee2ec75f-b9ad-4129-ad49-db38b2cabc8b)
+![postman](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/d0061f1e-b213-42fa-836a-1648f4fa56f1)
+![soap](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/6bff4254-2fcd-4b39-8497-d1374b249c4d)
+![swagger](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/a63801d3-a27b-498f-aa8e-35d770397be7)
+![sql](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/2c9f076e-1d1a-436d-bc7f-9581d3b7d901)
+
 
 
 
