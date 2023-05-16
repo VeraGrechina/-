@@ -26,13 +26,15 @@
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/e1c83229-95ab-4966-9c77-b2e607b4a442"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/e1c83229-95ab-4966-9c77-b2e607b4a442" alt="image" style="max-width: 100%;"></a></p>
   
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/6ea37e8a-72a8-4eb8-a39f-7c08a8c8f06e
+"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/6ea37e8a-72a8-4eb8-a39f-7c08a8c8f06e
+" alt="image" style="max-width: 100%;"></a></p> 
+  
+  
+
+
+  
  
-  
-
-
-  
-
-
 
 
 </details>
