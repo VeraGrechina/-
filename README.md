@@ -29,16 +29,10 @@
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/6ea37e8a-72a8-4eb8-a39f-7c08a8c8f06e"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/6ea37e8a-72a8-4eb8-a39f-7c08a8c8f06e" alt="image" style="max-width: 100%;"></a></p> 
   
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/53ddd456-fea5-4186-b8d1-47b33b5e80a4"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/53ddd456-fea5-4186-b8d1-47b33b5e80a4" alt="image" style="max-width: 100%;"></a></p> 
-  
 
-
-
-
-  
+ <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/993af92e-7cb6-4a2e-ae20-34dee4ae40c4"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/993af92e-7cb6-4a2e-ae20-34dee4ae40c4" alt="image" style="max-width: 100%;"></a></p> 
  
-
-
-</details>
+ </details>
 
   <p>Вывод:<p>
   <ol>
