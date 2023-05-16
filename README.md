@@ -49,32 +49,11 @@
  <p>✅уменение работать с инструментами тестирования: Jira,Confluence,Gase.io,Postman,Sitechco;<p>
  <p>✅умение анализировать результаты тестирования, использовать метрики;<p>
  </ol>
- 
- <p>Проект 2: SQL запросы </p>
- <p>Что нужно было сделать:<p>
- <ol>
-     <li>Задача:</li>Составить SQL запросы, используя данные из двух таблиц.
-    </ol>
-     
-<p>Решение задач:<p>
-<a href="https://docs.google.com/document/d/1dA6AReAuWct0BtyDOOS-RR1RyO6P8kz9LIrBuwUzqRw/edit?usp=sharing">Ссылка на docs.google</a>
-
- 
- <p>Вывод:<p>
-  <ol>
- <p>Для решения задач были использованы следующие навыки:<p>
- <p>✅умение создавать таблицы и наполнять их данными;<p>
- <p>✅ умение составлять один единый SQL запрос со сложными входными условиями;<p> 
    
   ## Контактная информация:
   <p>📧 Email:vera0290@yandeх.ru
    
-   <details open=""><summary> Bug reports on new functionality: </summary><br>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/132752674/236671603-f8d8f578-4668-43bb-b036-187136d21355.png"><img src="https://user-images.githubusercontent.com/132752674/236671603-f8d8f578-4668-43bb-b036-187136d21355.png" alt="image" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/132752674/236671957-c8cde42a-a0ac-4ba7-87b8-0c4c3283dee8.png"><img src="https://user-images.githubusercontent.com/132752674/236671957-c8cde42a-a0ac-4ba7-87b8-0c4c3283dee8.png" alt="image" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/132752674/236671972-870ac087-63fe-445c-b5a6-aef2b86c37e8.png"><img src="https://user-images.githubusercontent.com/132752674/236671972-870ac087-63fe-445c-b5a6-aef2b86c37e8.png" alt="image" style="max-width: 100%;"></a></p>
-</details>
-   
+  
    
 
  
