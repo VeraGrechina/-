@@ -23,8 +23,11 @@
  <details open=""><summary> Postman коллекция: </summary><br>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/ea97b033-06f6-4260-b524-0020d919f690"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/ea97b033-06f6-4260-b524-0020d919f690" alt="image" style="max-width: 100%;"></a></p>
 <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/c9ea1d02-63f7-4486-aa25-bf18f7f78041"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/c9ea1d02-63f7-4486-aa25-bf18f7f78041" alt="image" style="max-width: 100%;"></a></p>
-<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="[https://github.com/VeraGrechina/portfolio-QA/assets/132752674/c9ea1d02-63f7-4486-aa25-bf18f7f78041](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/31c23478-6b23-482c-9589-d4151e11dc3d)"><img src="[https://github.com/VeraGrechina/portfolio-QA/assets/132752674/c9ea1d02-63f7-4486-aa25-bf18f7f78041](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/31c23478-6b23-482c-9589-d4151e11dc3d)" alt="image" style="max-width: 100%;"></a></p> 
+
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/cc5d83d4-d1bd-4ae1-8f46-b8db4c3f82d4"><img src="https://github.com/VeraGrechina/portfolio-QA/assets/132752674/cc5d83d4-d1bd-4ae1-8f46-b8db4c3f82d4" alt="image" style="max-width: 100%;"></a></p>
   
+
+
   
 
 
