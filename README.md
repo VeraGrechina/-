@@ -21,7 +21,7 @@
 <p>пароль:89210740270Vera<p>
   <details open=""><summary> Postman коллекция: </summary><br>
   <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href=![коллекция](https://github.com/VeraGrechina/portfolio-QA/assets/132752674/ea97b033-06f6-4260-b524-0020d919f690)
-
+</details>
 
   <p>Вывод:<p>
   <ol>
