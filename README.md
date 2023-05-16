@@ -17,6 +17,7 @@
   
 <p>Решение задач:<p>
 <a href="https://grechinavera.atlassian.net/l/cp/4DYuC1Dw">Ссылка на проект в Confluence</a>
+<p> Postman коллекция:<p>
 <p>логин: vera0290@yandex.ru<p>
 <p>пароль:89210740270Vera<p>
 
